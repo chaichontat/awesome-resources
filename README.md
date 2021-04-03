@@ -1,6 +1,6 @@
 # awesome-resources
 
-Best known materials (for me) that leads to real understanding. These tend to have pretty visualizations and extensive links to related concepts ([motivation](https://www.quora.com/Do-highly-intuitive-thinkers-generally-feel-stifled-by-highly-proof-based-rigor-heavy-mathematics-eg-that-taught-at-the-undergrad-grad-level/answer/William-Bulmer-2). Further technical details could be searched elsewhere.
+Best known materials (for me) that leads to real understanding. These tend to have pretty visualizations and extensive links to related concepts ([motivation](https://www.quora.com/Do-highly-intuitive-thinkers-generally-feel-stifled-by-highly-proof-based-rigor-heavy-mathematics-eg-that-taught-at-the-undergrad-grad-level/answer/William-Bulmer-2)). Further technical details could be searched elsewhere.
 
 ## Math
 
