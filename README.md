@@ -24,6 +24,12 @@ Textbooks are usually contemporary and readable.
 - [Interactive GANs](https://poloclub.github.io/ganlab/)
 - Textbook: Kochenderfer, Wheeler, and Wray. [_Algorithms for Decision Making_](https://algorithmsbook.com/)
 
+## Statistics
+
+- Textbook, video: McElreath. [_Statistical Rethinking_](https://github.com/rmcelreath/stat_rethinking_2020)
+  - Intuitive approach to Bayesian statistics.
+
+
 ## Data Visualization
 
 - [A Dramatic Tour through Python’s Data Visualization Landscape (including `ggplot` and Altair)](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
