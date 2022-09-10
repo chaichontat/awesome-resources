@@ -17,6 +17,7 @@ Textbooks are usually contemporary and readable.
 - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 - [Algorithms visualization](https://github.com/jiupinjia/Visualize-Optimization-Algorithms)
 - Textbook: Kochenderfer and Wheeler. [_Algorithms for Optimization_](https://mykel.kochenderfer.com/textbooks/)
+- [Why Momentum Really Works](https://distill.pub/2017/momentum/)
 
 ### Machine Learning
 - [Kevin Murphy's Textbook](https://probml.github.io/pml-book/)
@@ -43,3 +44,9 @@ Textbooks are usually contemporary and readable.
 ### Git
 - [Resources to learn Git](https://try.github.io/)
 - [Git exercises](https://gitexercises.fracz.com/)
+
+
+## Economic History
+- [There are six main narratives of globalisation, all flawed](https://aeon.co/essays/there-are-six-main-narratives-of-globalisation-all-flawed)
+- [Book: Capitalism, Alone](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/11/book-review-capitalism-alone-by-branko-milanovic/) - Most reasonable and comprehensive assessment of the current state of affairs.
+
