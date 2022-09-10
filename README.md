@@ -11,6 +11,8 @@ Textbooks are usually contemporary and readable.
 - [Automatic differentiation](https://www.youtube.com/watch?v=wG_nF1awSSY)
 - [Betancourt Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 - [Geometric Algebra](https://www.youtube.com/watch?v=60z_hpEAtD8) - Proper math for physics.
+- [Random matrix theory](https://www.youtube.com/watch?v=Y4mnlIvVJEs)
+- [Nyquist-Shannon theorem](https://www.youtube.com/watch?v=pWjdWCePgvA)
 
 ### Optimization
 - [Lecture Notes, UC Merced](https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf)
@@ -25,11 +27,13 @@ Textbooks are usually contemporary and readable.
 - [Interactive GANs](https://poloclub.github.io/ganlab/)
 - Textbook: Kochenderfer, Wheeler, and Wray. [_Algorithms for Decision Making_](https://algorithmsbook.com/)
 - [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [Transformers](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 - [Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
 ### Statistics
 - [Probability for Data Science](https://probability4datascience.com) - **Effectively the best book I have seen in probability and statistics.**
 - Textbook, video: McElreath. [_Statistical Rethinking_](https://github.com/rmcelreath/stat_rethinking_2020) - Intuitive approach to Bayesian statistics.
+- [James-Stein paradox](https://www.youtube.com/watch?v=cUqoHQDinCM)
 
 
 ## Data Visualization
@@ -40,6 +44,7 @@ Textbooks are usually contemporary and readable.
 ## Software Engineering
 
 - [Hacker laws](https://github.com/dwmkerr/hacker-laws)
+- [History of TypeScript](https://www.youtube.com/watch?v=EUlM3wx546o)
 
 ### Git
 - [Resources to learn Git](https://try.github.io/)
@@ -50,3 +55,7 @@ Textbooks are usually contemporary and readable.
 - [There are six main narratives of globalisation, all flawed](https://aeon.co/essays/there-are-six-main-narratives-of-globalisation-all-flawed)
 - [Book: Capitalism, Alone](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/11/book-review-capitalism-alone-by-branko-milanovic/) - Most reasonable and comprehensive assessment of the current state of affairs.
 
+## Culture
+- [The Complicity of Geek Masculinity on the Big Bang Theory](https://www.youtube.com/watch?v=7L7NRONADJ4)
+- [Veritasium: A Story of YouTube Propaganda](https://www.youtube.com/watch?v=CM0aohBfUTc)
+- [Stroads](https://www.youtube.com/watch?v=ORzNZUeUHAM)
