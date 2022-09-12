@@ -59,3 +59,10 @@ Textbooks are usually contemporary and readable.
 - [The Complicity of Geek Masculinity on the Big Bang Theory](https://www.youtube.com/watch?v=7L7NRONADJ4)
 - [Veritasium: A Story of YouTube Propaganda](https://www.youtube.com/watch?v=CM0aohBfUTc)
 - [Stroads](https://www.youtube.com/watch?v=ORzNZUeUHAM)
+
+
+# How to do things.
+
+## Software
+
+- [R compilation mess](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
