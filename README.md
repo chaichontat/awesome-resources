@@ -6,6 +6,9 @@ Best known materials (for me) that leads to real understanding. These tend to ha
 
 Textbooks are usually contemporary and readable.
 
+## Highlights
+- [pandas visualizer](https://pandastutor.com/vis.html)
+
 ## Math
 
 - [Automatic differentiation](https://www.youtube.com/watch?v=wG_nF1awSSY)
